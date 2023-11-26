@@ -1,4 +1,4 @@
-// Problem 4
+// Project Euler Problem 4
 // Largest Palindrome Product
 
 /*
