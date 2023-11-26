@@ -34,7 +34,7 @@ bool checkPrime(unsigned intToBeTested){
   return isPrime;
 }
 
-long getLargestPrimeFactor(long intToBeFactorized){
+long getLargestPrimeFactor(long int ToBeFactorized){
   bool foundIt = false;
   long largestPrimeFactor = 0;
   long possibleLargestFactor = ceil(sqrt(intToBeFactorized));
