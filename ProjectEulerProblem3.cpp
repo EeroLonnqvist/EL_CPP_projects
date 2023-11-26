@@ -22,7 +22,7 @@ int main(){
   return 0;
 }
 
-bool checkPrime(unsigned intToBeTested){
+bool checkPrime(unsigned int intToBeTested){
   bool isPrime = true;
   long divisorTest = 3;
   while(divisorTest <= ceil(sqrt(intToBeTested))){
