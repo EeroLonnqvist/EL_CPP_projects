@@ -18,7 +18,7 @@ int main(){
   long largestPrimeFactorFor13195 = getLargestPrimeFactor(13195);
   cout << largestPrimeFactorFor13195 << endl; // Should be 29
   long largestPrimeFactorFor600851475143 = getLargestPrimeFactor(600851475143);
-  cout << largestPrimeFactorFor600851475143 << endl;
+  cout << largestPrimeFactorFor600851475143 << endl; // Should be 6857
   return 0;
 }
 
